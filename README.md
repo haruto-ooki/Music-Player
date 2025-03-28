@@ -10,3 +10,6 @@ Commits page: [Commits](https://github.com/haruto-ooki/Music-Player/commits/main
 たまに更新しますのでたまには見に来てください！
 <br>
 コミット履歴は[こちら](https://github.com/haruto-ooki/Music-Player/commits/main)
+<br>
+<br>
+Copyright 2025 haruto ooki
