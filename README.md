@@ -5,7 +5,7 @@ I'll update it occasionally, so please come back and check it out!
 <br>
 Commits page: [Commits](https://github.com/haruto-ooki/Music-Player/commits/main)
 ***
-これはMusic-Projectプロジェクトです！
+これはMusic-Playerプロジェクトです！
 <br>
 たまに更新しますのでたまには見に来てください！
 <br>
